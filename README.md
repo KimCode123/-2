@@ -11,9 +11,9 @@
 20183307 김준   -기획, 자료조사
 
 ## 개발환경
-python3.10
-pycharm
-pip install opencv-mediapipe (라이브러리 불러오는 명령어,cmd)
+-python3.10
+-pycharm
+-pip install opencv-mediapipe (라이브러리 불러오는 명령어,cmd)
 
 
 ## 개발동기
