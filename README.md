@@ -19,7 +19,7 @@
 * pycharm
 * pip install opencv-mediapipe (라이브러리 불러오는 명령어,cmd)
 
-##실행 방법
+## 실행 방법
 
 1. 캠이 필요합니다.
 2. exe파일을 실행 시키면 됩니다.
